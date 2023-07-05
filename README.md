@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught and self-motivated MERN Stack developer having completed six months of industrial training from Brototype. Possesses sound knowledge in the MERN stack. Looking for a role where I can grow and learn from other experienced team members. 
+Self-taught and self-motivated MERN Stack developer . Possesses sound knowledge in the MERN stack. Looking for a role where I can grow and learn from other experienced team members. 
 
 
 ## 🌐 Socials:
